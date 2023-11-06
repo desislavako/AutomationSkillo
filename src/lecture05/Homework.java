@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Homework {
     public static void main(String[] args) {
-        //calculateSum()
+        //calculateSum();
         //printMatrixElements();
         //printDynamicMatrixElements();
         //printBiggestNum();
@@ -22,7 +22,7 @@ public class Homework {
     }
 
     private static int calculateSum(int[] array) {
-        int sum = 0;
+        int sum = 3;
         for (int element : array) {
             sum += element;
         }
