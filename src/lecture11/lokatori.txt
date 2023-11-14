@@ -1,0 +1,14 @@
+//*[@id="homeIcon"]
+//*[@id="nav-link-home"]
+//*[@id="navbarColor01"]
+//*[@id="defaultLoginFormUsername"]
+//*[@id="sign-in-button"]
+//*[@id="defaultRegisterFormPassword"]
+//*[@id="defaultRegisterPhonePassword"]
+//*[@id="sign-in-button"]
+//*[@id="choose-file"]
+/html/body/app-root/div[2]/app-login/div/div/form/div/input
+/html/body/app-root/div[2]/app-profile/div/div[2]/app-profile-posts-section/div/div[1]/div/label[1]
+/html/body/app-root/div[2]/app-create-post/div/div/div/form/h3
+/html/body/app-root/div[2]/app-create-post/div/div/div/form/div[1]/div[2]/input
+/html/body/ngb-modal-window/div/div/app-post-modal/div/div[2]/div[1]/app-small-user-profile/div/div[2]/button
