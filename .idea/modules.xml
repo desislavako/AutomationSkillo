@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaProjectSkillo.iml" filepath="$PROJECT_DIR$/JavaProjectSkillo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testng.iml" filepath="$PROJECT_DIR$/testng.iml" />
     </modules>
   </component>
 </project>
